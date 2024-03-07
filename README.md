@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **eyobedabreham9gmail.com**
 
-- ⚡ Fun fact **:) I can recite the alphabet backward faster than forward.**
+- ⚡ Fun fact **:) The world's first website is still online and can be accessed at [info.cern.ch.](https://info.cern.ch/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
