@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/eyobedab" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/eyobedab?logo=twitter&style=for-the-badge" alt="https://twitter.com/eyobedab" /></a> </p>
 
-- 🌱 I’m currently learning **pytorch,**
+- 🌱 I’m currently learning **ML,**
 
 - 👨‍💻 All of my projects are available at [https://eyobedab.vercel.app/](https://eyobedab.vercel.app/)
 
-- 💬 Ask me about **react, Mearn**
+- 💬 Ask me about **react, Mearn, Next.js**
 
 - 📫 How to reach me **eyobedabreham9gmail.com**
 
