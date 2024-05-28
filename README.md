@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, Mearn, Next.js**
 
-- 📫 How to reach me **eyobedabreham9gmail.com**
+- 📫 How to reach me **eyobedabreham9@gmail.com**
 
 - ⚡ Fun fact **:) The world's first website is still online and can be accessed at [info.cern.ch.](https://info.cern.ch/)**
 
