@@ -16,6 +16,7 @@
 - ⚡ Fun fact **:) The world's first website is still online and can be accessed at [info.cern.ch.](https://info.cern.ch/)**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/eyobedab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/eyobedab" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eyobed-abreham-30577a262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eyobed-abreham-30577a262/" height="30" width="40" /></a>
