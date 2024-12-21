@@ -3,15 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyuuab&label=Profile%20views&color=0e75b6&style=flat" alt="eyuuab" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/eyobedab" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/eyobedab?logo=twitter&style=for-the-badge" alt="https://twitter.com/eyobedab" /></a> </p>
 
-- 🌱 I’m currently learning **ML,**
 
-- 👨‍💻 All of my projects are available at [https://eyobedab.vercel.app/](https://eyobedab.vercel.app/)
-
-- 💬 Ask me about **react, Mearn, Next.js**
-
-- 📫 How to reach me **eyobedabreham9@gmail.com**
+- 👨‍💻 **Portfolio:** [Link](https://eyuab.vercel.app)  | Contact **eyobedabreham9@gmail.com**
 
 - ⚡ Fun fact **:) The world's first website is still online and can be accessed at [info.cern.ch.](https://info.cern.ch/)**
 
